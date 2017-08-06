@@ -12,10 +12,14 @@ https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/DEFCON-25
 
 look for defcon preso once up
 
-Understanding your online presence and tracking 
+# Understanding your online presence and tracking 
 
 http://dataselfie.it/#/
 
 https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/DEFCON-25-Weston-Hecker-Opt-Out-or-Deauth-Trying.pdf
 
 look for preso once up
+
+https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/DEFCON-25-Svea-Eckert-Andreas-Dewes-Dark-Data.pdf
+
+preso
