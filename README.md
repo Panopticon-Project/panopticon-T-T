@@ -23,3 +23,7 @@ look for preso once up
 https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/DEFCON-25-Svea-Eckert-Andreas-Dewes-Dark-Data.pdf
 
 preso
+
+http://www.receptiviti.ai/
+
+try it out more
