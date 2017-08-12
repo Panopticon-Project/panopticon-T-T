@@ -12,6 +12,8 @@ https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/DEFCON-25
 
 look for defcon preso once up
 
+https://blog.cryptoaustralia.org.au/2017/03/21/run-your-end-to-end-encrypted-chat-server-matrix-riot/
+
 # Understanding your online presence and tracking 
 
 http://dataselfie.it/#/
