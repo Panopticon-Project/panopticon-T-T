@@ -14,6 +14,8 @@ look for defcon preso once up
 
 https://blog.cryptoaustralia.org.au/2017/03/21/run-your-end-to-end-encrypted-chat-server-matrix-riot/
 
+https://motherboard.vice.com/en_us/article/wjj8ax/legal-hacking-tools-can-be-useful-for-journalists-too
+
 # Understanding your online presence and tracking 
 
 http://dataselfie.it/#/
