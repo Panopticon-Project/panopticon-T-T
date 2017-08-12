@@ -37,3 +37,8 @@ try it out more
 https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/DEFCON-25-Suggy-Sumner-Rage-Against-The-Weaponized-AI-Propaganda-Machine.pdf
 
 look for preso
+
+# Trends that should be adopted
+
+http://www.csoonline.com/article/3214408/data-protection/its-time-for-defensive-worms.html#tk.rss_all
+
