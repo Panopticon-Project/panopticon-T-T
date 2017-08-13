@@ -16,6 +16,10 @@ https://blog.cryptoaustralia.org.au/2017/03/21/run-your-end-to-end-encrypted-cha
 
 https://motherboard.vice.com/en_us/article/wjj8ax/legal-hacking-tools-can-be-useful-for-journalists-too
 
+https://www.activism.net/cypherpunk/
+
+tools on that site
+
 # Understanding your online presence and tracking 
 
 http://dataselfie.it/#/
