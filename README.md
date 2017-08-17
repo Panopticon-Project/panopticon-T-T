@@ -40,6 +40,8 @@ try it out more
 
 https://www.youtube.com/watch?v=wjva6ZJyhwE
 
+https://www.youtube.com/watch?v=bbDAa0syz5A
+
 # Unsure but it needs to go somewhere
 
 https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/DEFCON-25-Suggy-Sumner-Rage-Against-The-Weaponized-AI-Propaganda-Machine.pdf
