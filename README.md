@@ -44,6 +44,8 @@ https://www.youtube.com/watch?v=bbDAa0syz5A
 
 https://medium.com/@thegrugq/fascinating-glimpse-into-police-investigation-7d9b1360c903?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BI4F%2BssgtTPyPGT1jSEbjvA%3D%3D
 
+http://www.automatingosint.com/blog/2017/09/follow-the-bitcoin-with-python-blockexplorer-and-webhose-io/
+
 # Unsure but it needs to go somewhere
 
 https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/DEFCON-25-Suggy-Sumner-Rage-Against-The-Weaponized-AI-Propaganda-Machine.pdf
