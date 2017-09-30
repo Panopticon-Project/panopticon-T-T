@@ -56,3 +56,8 @@ look for preso
 
 http://www.csoonline.com/article/3214408/data-protection/its-time-for-defensive-worms.html#tk.rss_all
 
+incorporate in somewhere
+https://electrospaces.blogspot.com.au/2017/09/are-shadow-brokers-identical-with.html
+check out to see what think
+
+add other threat intel and antivirus vendors
