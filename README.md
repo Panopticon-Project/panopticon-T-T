@@ -61,3 +61,5 @@ https://electrospaces.blogspot.com.au/2017/09/are-shadow-brokers-identical-with.
 check out to see what think
 
 add other threat intel and antivirus vendors
+
+https://osintblog.io/recon-village-ctf-overview-fe8787f3ce7f?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_details_all%3BM%2BShQF%2B8QXG7OcD7%2FERjuQ%3D%3D
