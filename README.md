@@ -49,6 +49,9 @@ https://medium.com/@thegrugq/fascinating-glimpse-into-police-investigation-7d9b1
 
 http://www.automatingosint.com/blog/2017/09/follow-the-bitcoin-with-python-blockexplorer-and-webhose-io/
 
+# OPSEC
+https://www.youtube.com/watch?v=S8GPTvq1m-w
+
 # Unsure but it needs to go somewhere
 
 https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/DEFCON-25-Suggy-Sumner-Rage-Against-The-Weaponized-AI-Propaganda-Machine.pdf
