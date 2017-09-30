@@ -35,6 +35,9 @@ preso
 http://www.receptiviti.ai/
 
 try it out more
+# CCTV Cameras
+
+https://kamba4.crux.uberspace.de/
 
 # OSINT
 
@@ -55,6 +58,9 @@ look for preso
 # Trends that should be adopted
 
 http://www.csoonline.com/article/3214408/data-protection/its-time-for-defensive-worms.html#tk.rss_all
+
+unsure but needs to go somewhere
+https://www.darkreading.com/endpoint/battle-of-the-ais-dont-build-a-better-box-put-your-box-in-a-better-loop/a/d-id/1329682?piddl_msgorder=thrd
 
 incorporate in somewhere
 https://electrospaces.blogspot.com.au/2017/09/are-shadow-brokers-identical-with.html
