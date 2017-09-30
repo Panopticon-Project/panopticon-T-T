@@ -51,7 +51,7 @@ http://www.automatingosint.com/blog/2017/09/follow-the-bitcoin-with-python-block
 
 # OPSEC
 https://www.youtube.com/watch?v=S8GPTvq1m-w
-
+https://www.youtube.com/watch?v=NFJqD-LcpIg might need to go elsewhere
 # Unsure but it needs to go somewhere
 
 https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/DEFCON-25-Suggy-Sumner-Rage-Against-The-Weaponized-AI-Propaganda-Machine.pdf
