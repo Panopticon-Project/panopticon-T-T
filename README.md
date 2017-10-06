@@ -74,3 +74,5 @@ add other threat intel and antivirus vendors
 https://osintblog.io/recon-village-ctf-overview-fe8787f3ce7f?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_details_all%3BM%2BShQF%2B8QXG7OcD7%2FERjuQ%3D%3D
 
 http://www.cbronline.com/news/cybersecurity/crowdstrike-cto-theft-destruction-just-keystrokes-apart/
+
+http://www.securityweek.com/crafting-your-cyber-threat-intelligence-driven-playbook
