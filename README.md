@@ -76,3 +76,5 @@ https://osintblog.io/recon-village-ctf-overview-fe8787f3ce7f?lipi=urn%3Ali%3Apag
 http://www.cbronline.com/news/cybersecurity/crowdstrike-cto-theft-destruction-just-keystrokes-apart/
 
 http://www.securityweek.com/crafting-your-cyber-threat-intelligence-driven-playbook
+
+https://www.wired.com/story/crypto-anchors-breach-security?mbid=nl_101217_daily
