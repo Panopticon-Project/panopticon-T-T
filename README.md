@@ -49,6 +49,8 @@ https://medium.com/@thegrugq/fascinating-glimpse-into-police-investigation-7d9b1
 
 http://www.automatingosint.com/blog/2017/09/follow-the-bitcoin-with-python-blockexplorer-and-webhose-io/
 
+https://www.iafrikan.com/2017/10/18/dracore-data-sciences/
+
 # OPSEC
 https://www.youtube.com/watch?v=S8GPTvq1m-w
 https://www.youtube.com/watch?v=NFJqD-LcpIg might need to go elsewhere
