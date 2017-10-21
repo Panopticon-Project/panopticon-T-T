@@ -83,5 +83,9 @@ http://www.securityweek.com/crafting-your-cyber-threat-intelligence-driven-playb
 
 https://www.wired.com/story/crypto-anchors-breach-security?mbid=nl_101217_daily
 
+# Anti-Phishing
+
 Phishing kits
 https://medium.com/@0x736A_88164/the-anatomy-of-a-diy-phishing-kit-569f201e882d
+
+https://www.darkreading.com/partner-perspectives/f5/url-obfuscation-still-a-phishers-phriend/
