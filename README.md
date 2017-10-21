@@ -20,6 +20,8 @@ https://www.activism.net/cypherpunk/
 
 tools on that site
 
+track satelites https://www.wired.com/story/meet-the-geek-who-tracks-rogue-satellites-with-coat-hangers/?mbid=nl_101317_daily
+
 # Understanding your online presence and tracking 
 
 http://dataselfie.it/#/
