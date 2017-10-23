@@ -93,3 +93,7 @@ https://www.darkreading.com/partner-perspectives/f5/url-obfuscation-still-a-phis
 # Encrypted Emails
 
 https://www.deepdotweb.com/2017/10/22/basic-guide-pgp-tails/
+
+# Fighting fake news
+
+http://www.invid-project.eu/tools-and-services/invid-verification-plugin/
