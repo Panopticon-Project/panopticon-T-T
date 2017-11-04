@@ -90,7 +90,9 @@ https://medium.com/@0x736A_88164/the-anatomy-of-a-diy-phishing-kit-569f201e882d
 
 https://www.darkreading.com/partner-perspectives/f5/url-obfuscation-still-a-phishers-phriend/
 
-# Encrypted Emails
+# Encryption
+
+infosecbytes.org
 
 https://www.deepdotweb.com/2017/10/22/basic-guide-pgp-tails/
 
