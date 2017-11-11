@@ -90,6 +90,8 @@ https://medium.com/@0x736A_88164/the-anatomy-of-a-diy-phishing-kit-569f201e882d
 
 https://www.darkreading.com/partner-perspectives/f5/url-obfuscation-still-a-phishers-phriend/
 
+waste a phishers time https://www.netsafe.org.nz/rescam/
+
 # Encryption
 
 infosecbytes.org
