@@ -55,6 +55,8 @@ https://www.iafrikan.com/2017/10/18/dracore-data-sciences/
 
 http://www.securityweek.com/analysis-3200-phishing-kits-sheds-light-attacker-tools-and-techniques
 
+https://medium.com/@jeffykao/more-than-a-million-pro-repeal-net-neutrality-comments-were-likely-faked-e9f0e3ed36a6
+
 # OPSEC
 https://www.youtube.com/watch?v=S8GPTvq1m-w
 https://www.youtube.com/watch?v=NFJqD-LcpIg might need to go elsewhere
