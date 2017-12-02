@@ -109,6 +109,7 @@ https://www.deepdotweb.com/2017/10/22/basic-guide-pgp-tails/
 
 http://www.invid-project.eu/tools-and-services/invid-verification-plugin/
 https://www.irex.org/project/learn-discern
+https://arstechnica.com/tech-policy/2017/11/by-years-end-youll-know-if-you-liked-a-kremlin-created-facebook-page/
 
 # Malware
 
