@@ -106,3 +106,18 @@ https://www.deepdotweb.com/2017/10/22/basic-guide-pgp-tails/
 
 http://www.invid-project.eu/tools-and-services/invid-verification-plugin/
 https://www.irex.org/project/learn-discern
+
+# Malware
+
+https://ransomwaretracker.abuse.ch/
+https://www.spamhaus.org/organization/
+https://isc.sans.edu/
+https://www.virustotal.com/#/home/upload
+https://virusshare.com/
+https://www.alienvault.com/blogs
+https://blogs.cisco.com/talos
+https://www.crowdstrike.com/blog/category/threat-intel-research/
+https://www.fireeye.com/blog/threat-research.html
+https://researchcenter.paloaltonetworks.com/unit42/?recent
+https://www.recordedfuture.com/blog/
+https://blogs.technet.microsoft.com/mmpc/2017/11/
