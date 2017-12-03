@@ -133,3 +133,6 @@ https://blogs.technet.microsoft.com/mmpc/2017/11/
 # Port scanning
 https://github.com/vesche/scanless
 Command-line utility for using websites that can perform port scans on your behalf. Useful for early stages of a penetration test or if you'd like to run a port scan on a host and have it not come from your IP address.
+
+# Government exploits
+https://github.com/x0rz/EQGRP
