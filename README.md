@@ -137,3 +137,6 @@ Command-line utility for using websites that can perform port scans on your beha
 # Government exploits
 https://github.com/x0rz/EQGRP
 https://github.com/fuzzbunch/fuzzbunch
+
+# SCADA
+http://www.securityweek.com/hackers-can-steal-data-air-gapped-industrial-networks-plcs
