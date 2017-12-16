@@ -140,3 +140,6 @@ https://github.com/fuzzbunch/fuzzbunch
 
 # SCADA
 http://www.securityweek.com/hackers-can-steal-data-air-gapped-industrial-networks-plcs
+
+# EventLogEdit detector
+http://www.securityweek.com/event-logs-manipulated-nsa-hacking-tool-recoverable
