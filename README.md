@@ -129,6 +129,7 @@ https://www.fireeye.com/blog/threat-research.html
 https://researchcenter.paloaltonetworks.com/unit42/?recent
 https://www.recordedfuture.com/blog/
 https://blogs.technet.microsoft.com/mmpc/2017/11/
+http://www.securityweek.com/avast-open-sources-machine-code-decompiler-battle-against-malware
 
 # Port scanning
 https://github.com/vesche/scanless
