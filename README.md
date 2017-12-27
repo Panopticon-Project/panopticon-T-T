@@ -58,7 +58,14 @@ http://www.securityweek.com/analysis-3200-phishing-kits-sheds-light-attacker-too
 https://medium.com/@jeffykao/more-than-a-million-pro-repeal-net-neutrality-comments-were-likely-faked-e9f0e3ed36a6
 
 https://intrusiontruth.wordpress.com/2017/04/26/who-is-behind-this-chinese-espionage-group-stealing-our-intellectual-property/
+
 https://arstechnica.com/tech-policy/2017/11/security-firm-was-front-for-advanced-chinese-hacking-operation-feds-say/
+
+https://globalvoices.org/2015/07/13/open-source-information-reveals-pro-kremlin-web-campaign/
+
+https://www.bellingcat.com/resources/2017/07/31/automatically-discover-website-connections-tracking-codes/
+
+https://www.bellingcat.com/news/africa/2017/08/04/guptaleaks-google-analytics/
 
 # OPSEC
 https://www.youtube.com/watch?v=S8GPTvq1m-w
