@@ -67,6 +67,8 @@ https://www.bellingcat.com/resources/2017/07/31/automatically-discover-website-c
 
 https://www.bellingcat.com/news/africa/2017/08/04/guptaleaks-google-analytics/
 
+http://amabhungane.co.za/article/2017-07-26-exclusive-indian-it-guru-linked-to-fake-wmc-sites
+
 # OPSEC
 https://www.youtube.com/watch?v=S8GPTvq1m-w
 https://www.youtube.com/watch?v=NFJqD-LcpIg might need to go elsewhere
