@@ -153,3 +153,6 @@ http://www.securityweek.com/hackers-can-steal-data-air-gapped-industrial-network
 
 # EventLogEdit detector
 http://www.securityweek.com/event-logs-manipulated-nsa-hacking-tool-recoverable
+
+# Hacking examples
+https://arstechnica.com/information-technology/2016/04/how-hacking-team-got-hacked-phineas-phisher/
