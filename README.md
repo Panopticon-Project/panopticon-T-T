@@ -74,6 +74,8 @@ https://benkowlab.blogspot.com.au/2017/12/another-normal-day-in-cybercrime-from.
 
 https://threatconnect.com/blog/finding-nemohost-fancy-bear-infrastructure/
 
+https://www.threatconnect.com/blog/fancy-bear-leverages-blogspot/
+
 # OPSEC
 https://www.youtube.com/watch?v=S8GPTvq1m-w
 https://www.youtube.com/watch?v=NFJqD-LcpIg might need to go elsewhere
