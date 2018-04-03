@@ -150,6 +150,9 @@ https://www.recordedfuture.com/blog/
 https://blogs.technet.microsoft.com/mmpc/2017/11/
 http://www.securityweek.com/avast-open-sources-machine-code-decompiler-battle-against-malware
 
+# AV
+https://github.com/KasperskyLab/klara
+
 # Port scanning
 https://github.com/vesche/scanless
 Command-line utility for using websites that can perform port scans on your behalf. Useful for early stages of a penetration test or if you'd like to run a port scan on a host and have it not come from your IP address.
