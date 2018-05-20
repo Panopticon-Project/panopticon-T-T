@@ -88,6 +88,8 @@ https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/DEFCON-25
 
 look for preso
 
+https://www.wired.com/story/inside-scan4you-takedown/?CNDID=50740756&mbid=nl_051718_daily_list1_p1
+
 # Trends that should be adopted
 
 http://www.csoonline.com/article/3214408/data-protection/its-time-for-defensive-worms.html#tk.rss_all
