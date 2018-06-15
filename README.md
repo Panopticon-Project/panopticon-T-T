@@ -180,3 +180,6 @@ https://arstechnica.com/information-technology/2016/04/how-hacking-team-got-hack
 
 # Detecting bugs
 https://media.ccc.de/v/34c3-8735-spy_vs_spy_a_modern_study_of_microphone_bugs_operation_and_detection
+
+# Online community
+https://pursuanceproject.org/
