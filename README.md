@@ -186,3 +186,6 @@ https://pursuanceproject.org/
 
 # what not to do
 https://nakedsecurity.sophos.com/2018/06/20/alleged-vault-7-leaker-was-busted-because-of-basic-security-blunders/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+nakedsecurity+%28Naked+Security+-+Sophos%29
+
+# Urban science
+https://www.wired.com/story/mit-urban-sciences-program/?CNDID=53659400&mbid=nl_062518_daily_list3_p1
