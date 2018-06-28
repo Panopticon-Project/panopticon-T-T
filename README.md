@@ -189,3 +189,6 @@ https://nakedsecurity.sophos.com/2018/06/20/alleged-vault-7-leaker-was-busted-be
 
 # Urban science
 https://www.wired.com/story/mit-urban-sciences-program/?CNDID=53659400&mbid=nl_062518_daily_list3_p1
+
+# starttls-everywhere
+https://www.securityweek.com/eff-secures-email-delivery-starttls-everywhere
