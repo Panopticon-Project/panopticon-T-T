@@ -37,6 +37,9 @@ preso
 http://www.receptiviti.ai/
 
 try it out more
+
+https://inteltechniques.com/data/workbook.pdf
+
 # CCTV Cameras
 
 https://kamba4.crux.uberspace.de/
