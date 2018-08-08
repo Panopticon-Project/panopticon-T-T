@@ -198,3 +198,6 @@ https://www.wired.com/story/mit-urban-sciences-program/?CNDID=53659400&mbid=nl_0
 
 # starttls-everywhere
 https://www.securityweek.com/eff-secures-email-delivery-starttls-everywhere
+
+# Finding Twitter bots
+https://www.securityweek.com/new-open-source-tools-help-find-large-twitter-botnets
