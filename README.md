@@ -201,3 +201,6 @@ https://www.securityweek.com/eff-secures-email-delivery-starttls-everywhere
 
 # Finding Twitter bots
 https://www.securityweek.com/new-open-source-tools-help-find-large-twitter-botnets
+
+# stylometry
+https://www.wired.com/story/machine-learning-identify-anonymous-code/?CNDID=53659400&mbid=nl_081018_daily_list1_p1
