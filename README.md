@@ -120,6 +120,8 @@ https://www.wired.com/story/crypto-anchors-breach-security?mbid=nl_101217_daily
 # AI
 https://www.darkreading.com/application-security/microsoft-uses-neural-networks-to-make-fuzz-tests-smarter/d/d-id/1330429?elq_mid=81592&elq_cid=25141692&_mc=NL_DR_EDT_DR_daily_20171115&cid=NL_DR_EDT_DR_daily_20171115&elqTrackId=79ca8d7080d149eb8a11538117353d48&elq=e052f5c4edbd4d2081153bcc9a29b140&elqaid=81592&elqat=1&elqCampaignId=28754
 
+https://www.blackhat.com/us-18/briefings/schedule/#deeplocker---concealing-targeted-attacks-with-ai-locksmithing-11549 when I looked the talk had not been uploaded yet
+
 # Phishing
 https://www.wired.com/story/fin7-wild-inner-workings-billion-dollar-hacking-group?mbid=nl_080218_daily_list1_p2&CNDID=53659400
 
