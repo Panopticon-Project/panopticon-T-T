@@ -146,6 +146,7 @@ http://www.invid-project.eu/tools-and-services/invid-verification-plugin/
 https://www.irex.org/project/learn-discern
 https://arstechnica.com/tech-policy/2017/11/by-years-end-youll-know-if-you-liked-a-kremlin-created-facebook-page/
 https://www.rollingstone.com/politics/news/pizzagate-anatomy-of-a-fake-news-scandal-w511904
+https://www.wired.com/story/surfsafe-browser-extension-save-you-from-fake-photos/?CNDID=53659400&mbid=nl_082018_daily_list3_p3
 
 # Malware
 
