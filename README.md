@@ -208,3 +208,6 @@ https://www.securityweek.com/new-open-source-tools-help-find-large-twitter-botne
 
 # stylometry
 https://www.wired.com/story/machine-learning-identify-anonymous-code/?CNDID=53659400&mbid=nl_081018_daily_list1_p1
+
+# secruity research
+https://www.wired.com/story/monitor-ultrasonic-sounds-reveal-content-side-channel?mbid=nl_082418_daily_list3_p5&CNDID=53659400
