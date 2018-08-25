@@ -4,6 +4,8 @@ http://dashboard.securingdemocracy.org/
 
 https://arstechnica.com/gadgets/2017/08/new-web-tool-tracks-russian-influence-ops-on-twitter/
 
+https://medium.com/@drag0n/black-hat-2018-tools-list-991fa38901da
+
 Sky Spy Watch
 
 https://github.com/nstarpost/SkySpyWatch
