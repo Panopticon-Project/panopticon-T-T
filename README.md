@@ -46,6 +46,12 @@ https://inteltechniques.com/data/workbook.pdf
 
 https://kamba4.crux.uberspace.de/
 
+# Kali
+
+# Kali tools
+
+https://laconicwolf.com/2018/08/27/exploring-the-burp-suite-api/
+
 # OSINT
 
 https://www.youtube.com/watch?v=wjva6ZJyhwE
