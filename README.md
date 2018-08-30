@@ -84,6 +84,8 @@ http://amabhungane.co.za/article/2017-07-26-exclusive-indian-it-guru-linked-to-f
 
 cybercrime to out of our scope, but good techniques to use 
 https://benkowlab.blogspot.com.au/2017/12/another-normal-day-in-cybercrime-from.html
+https://www.securityweek.com/new-cobalt-campaign-targets-russian-and-romanian-banks
+https://asert.arbornetworks.com/double-the-infection-double-the-fun/
 
 https://threatconnect.com/blog/finding-nemohost-fancy-bear-infrastructure/
 
