@@ -1,5 +1,7 @@
 # panopticon-tools
 
+# General
+
 http://dashboard.securingdemocracy.org/
 
 https://arstechnica.com/gadgets/2017/08/new-web-tool-tracks-russian-influence-ops-on-twitter/
@@ -25,6 +27,11 @@ https://www.activism.net/cypherpunk/
 tools on that site
 
 track satelites https://www.wired.com/story/meet-the-geek-who-tracks-rogue-satellites-with-coat-hangers/?mbid=nl_101317_daily
+
+# Other databases
+https://twitter.com/cyb3rops/status/1034792495186628609
+https://airtable.com/shr3Po3DsZUQZY4we/tbljpA5wI1IaLI4Gv/viwGFVFtuu0l88e7u
+https://docs.google.com/spreadsheets/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml#
 
 # Understanding your online presence and tracking 
 
