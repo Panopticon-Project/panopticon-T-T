@@ -1,4 +1,30 @@
-# panopticon-tools
+![alt tag](https://user-images.githubusercontent.com/24201238/29351849-9c3087b4-82b8-11e7-8fed-350e3b8b4945.png)
+
+# Panopticon Project
+
+## Tools and Techniques
+
+## Table of Contents
+
+- [Other databases](#other-databases)
+- [Why does Panopticon Project exist?](#why-does-panopticon-project-exist)
+- [I don't know much about these topics and need a primer](#i-dont-know-much-about-these-topics-and-need-a-primer)
+- [Who can contribute to P2?](#who-can-contribute-to-p2)
+- [How can I get involved?](#how-can-i-get-involved)
+- [What does P2 need?](#what-does-p2-need)
+- [I want to get in touch with P2](#i-want-to-get-in-touch-with-p2)
+- [I want to leak something to P2](#i-want-to-leak-something-to-p2)
+- [I still need to get in touch with P2 in a secure manner](#i-still-need-to-get-in-touch-with-p2-in-a-secure-manner)
+- [How do I start?](#how-do-i-start)
+- [There is one thing I'd ask of you](#there-is-one-thing-id-ask-of-you)
+- [Licenses](#licenses)
+- [The connection between Panopticon Project and the idea of the Open Web](#the-connection-between-panopticon-project-and-the-idea-of-the-open-web)
+- [I have objections to this project!](#i-have-objections-to-this-project)
+- [Thank you](#thank-you)
+
+### Other databases
+* [Airtable(]https://airtable.com/shr3Po3DsZUQZY4we/tbljpA5wI1IaLI4Gv/viwGFVFtuu0l88e7u)
+* [Google Docs](https://docs.google.com/spreadsheets/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml#)
 
 # General
 
@@ -27,11 +53,6 @@ https://www.activism.net/cypherpunk/
 tools on that site
 
 track satelites https://www.wired.com/story/meet-the-geek-who-tracks-rogue-satellites-with-coat-hangers/?mbid=nl_101317_daily
-
-# Other databases
-https://twitter.com/cyb3rops/status/1034792495186628609
-https://airtable.com/shr3Po3DsZUQZY4we/tbljpA5wI1IaLI4Gv/viwGFVFtuu0l88e7u
-https://docs.google.com/spreadsheets/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml#
 
 # Understanding your online presence and tracking 
 
