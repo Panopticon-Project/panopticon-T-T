@@ -122,6 +122,8 @@ https://medium.com/@hunchly/jumping-to-osint-conclusions-a97fc5e623f4
 
 https://medium.com/@hunchly/advanced-website-analysis-for-osint-ff35373d918f
 
+OSINT with photos and satellite imagry https://medium.com/dfrlab/breakingsyria-assads-latest-offensive-next-to-israeli-borders-3372e306bac9 - google maps is open out of date but easily accessable satellite images
+
 # OPSEC
 https://www.youtube.com/watch?v=S8GPTvq1m-w
 https://www.youtube.com/watch?v=NFJqD-LcpIg might need to go elsewhere
