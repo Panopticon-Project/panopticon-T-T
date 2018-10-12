@@ -82,6 +82,9 @@ https://kamba4.crux.uberspace.de/
 
 https://laconicwolf.com/2018/08/27/exploring-the-burp-suite-api/
 
+# General tools
+https://www.us-cert.gov/ncas/alerts/AA18-284A
+
 # OSINT
 
 https://www.youtube.com/watch?v=wjva6ZJyhwE
