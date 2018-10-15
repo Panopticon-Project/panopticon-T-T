@@ -256,3 +256,6 @@ https://www.wired.com/story/machine-learning-identify-anonymous-code/?CNDID=5365
 
 # secruity research
 https://www.wired.com/story/monitor-ultrasonic-sounds-reveal-content-side-channel?mbid=nl_082418_daily_list3_p5&CNDID=53659400
+
+# Troll hunting
+https://medium.com/mit-technology-review/data-mining-has-revealed-previously-unknown-russian-twitter-troll-campaigns-8efeabf74909
