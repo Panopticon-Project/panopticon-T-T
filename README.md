@@ -259,3 +259,6 @@ https://www.wired.com/story/monitor-ultrasonic-sounds-reveal-content-side-channe
 
 # Troll hunting
 https://medium.com/mit-technology-review/data-mining-has-revealed-previously-unknown-russian-twitter-troll-campaigns-8efeabf74909
+
+# Bellingcat
+https://www.npr.org/2018/10/12/656869598/meet-the-internet-researchers-unmasking-russian-assassins?ft=nprml&f=1001
