@@ -58,17 +58,13 @@ A [story](https://www.wired.com/story/meet-the-geek-who-tracks-rogue-satellites-
 
 [Dark Data](https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/DEFCON-25-Svea-Eckert-Andreas-Dewes-Dark-Data.pdf) - if someone can find the presentation that would be great! If someone can also download the presentation so we don't lose it, also great!
 
-here for editing
+[Receptiviti](http://www.receptiviti.ai/) - Analyze language across contexts and over time
 
-http://www.receptiviti.ai/
+[Hiding from the Internet](https://inteltechniques.com/data/workbook.pdf) - Eliminating Personal Online Information - If someone could download this and load it onto the repo so we don't lose it that would be great!
 
-try it out more
+### CCTV Cameras
 
-https://inteltechniques.com/data/workbook.pdf
-
-# CCTV Cameras
-
-https://kamba4.crux.uberspace.de/
+A [global map of video cameras](https://kamba4.crux.uberspace.de/)
 
 # Kali
 
