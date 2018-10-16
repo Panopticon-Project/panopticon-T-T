@@ -26,45 +26,39 @@
 * [Airtable(]https://airtable.com/shr3Po3DsZUQZY4we/tbljpA5wI1IaLI4Gv/viwGFVFtuu0l88e7u)
 * [Google Docs](https://docs.google.com/spreadsheets/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml#)
 
-# General
+### Government influence
 
-http://dashboard.securingdemocracy.org/
+[Hamiltion 68](http://dashboard.securingdemocracy.org/) - Tracking Russian influence operations on Twitter
 
-https://arstechnica.com/gadgets/2017/08/new-web-tool-tracks-russian-influence-ops-on-twitter/
+An [article](https://arstechnica.com/gadgets/2017/08/new-web-tool-tracks-russian-influence-ops-on-twitter/) on Hamilton 68
 
-https://medium.com/@drag0n/black-hat-2018-tools-list-991fa38901da
+### Lists of tools
+All the [tools](https://medium.com/@drag0n/black-hat-2018-tools-list-991fa38901da) demoed at the 2018 Black Hat Conference
 
-http://malc0de.com/dashboard/
+[Malc0de](http://malc0de.com/dashboard/) - Useful resources for malware analysis 
 
-Sky Spy Watch
+List of [open source research tools](https://motherboard.vice.com/en_us/article/wjj8ax/legal-hacking-tools-can-be-useful-for-journalists-too) 
 
-https://github.com/nstarpost/SkySpyWatch
+List of [privacy](https://www.activism.net/cypherpunk/) resources
 
-https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/DEFCON-25-Hernandez-Richards-MacDonald-Evoy-Tracking-Spies-in-the-Skies.pdf
+### Surveillance flights and satelites
+[Sky Spy Watch](https://github.com/nstarpost/SkySpyWatch) - Convert flight path data collected from Virtual Radar Server and filter for potential surveillance activity
 
-look for defcon preso once up
+A [presentation](https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/DEFCON-25-Hernandez-Richards-MacDonald-Evoy-Tracking-Spies-in-the-Skies.pdf) on Sky Spy Watch - if someone could download it and save it to the repo so we don't lose it that would be great!
 
-https://blog.cryptoaustralia.org.au/2017/03/21/run-your-end-to-end-encrypted-chat-server-matrix-riot/
+A [story](https://www.wired.com/story/meet-the-geek-who-tracks-rogue-satellites-with-coat-hangers/?mbid=nl_101317_daily) on tracking spy satelites
 
-https://motherboard.vice.com/en_us/article/wjj8ax/legal-hacking-tools-can-be-useful-for-journalists-too
+### Encrypted Communication
+[Run your end-to-end encrypted chat server using Matrix and Riot](https://blog.cryptoaustralia.org.au/2017/03/21/run-your-end-to-end-encrypted-chat-server-matrix-riot/)
 
-https://www.activism.net/cypherpunk/
+### Understanding your online presence and tracking 
+[Data Selfie](http://dataselfie.it/#/) explores our relationship to the online data we leave behind as a result of media consumption and social networks.
 
-tools on that site
+[Anti-Tracking Bots Radios and Keystroke Injection](https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/DEFCON-25-Weston-Hecker-Opt-Out-or-Deauth-Trying.pdf) - if someone can find the presentation that would be great! If someone can also download the presentation so we don't lose it, also great!
 
-track satelites https://www.wired.com/story/meet-the-geek-who-tracks-rogue-satellites-with-coat-hangers/?mbid=nl_101317_daily
+[Dark Data](https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/DEFCON-25-Svea-Eckert-Andreas-Dewes-Dark-Data.pdf) - if someone can find the presentation that would be great! If someone can also download the presentation so we don't lose it, also great!
 
-# Understanding your online presence and tracking 
-
-http://dataselfie.it/#/
-
-https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/DEFCON-25-Weston-Hecker-Opt-Out-or-Deauth-Trying.pdf
-
-look for preso once up
-
-https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/DEFCON-25-Svea-Eckert-Andreas-Dewes-Dark-Data.pdf
-
-preso
+here for editing
 
 http://www.receptiviti.ai/
 
