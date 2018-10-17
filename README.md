@@ -23,7 +23,7 @@
 - [Thank you](#thank-you)
 
 ### Other databases
-* [Airtable(]https://airtable.com/shr3Po3DsZUQZY4we/tbljpA5wI1IaLI4Gv/viwGFVFtuu0l88e7u)
+* [Airtable](https://airtable.com/shr3Po3DsZUQZY4we/tbljpA5wI1IaLI4Gv/viwGFVFtuu0l88e7u)
 * [Google Docs](https://docs.google.com/spreadsheets/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml#)
 
 ### Government influence
@@ -43,6 +43,8 @@ List of [privacy](https://www.activism.net/cypherpunk/) resources
 
 Top 5 [Publicly Available Tools Seen in Cyber Incidents Worldwide](https://www.us-cert.gov/ncas/alerts/AA18-284A)
 
+[Google Chrome tools](https://medium.com/@hunchly/advanced-website-analysis-for-osint-ff35373d918f) for website analysis
+
 ### Tutorials for tools
 [Exploring the Burp Suite API](https://laconicwolf.com/2018/08/27/exploring-the-burp-suite-api/)
 
@@ -56,8 +58,14 @@ A [story](https://www.wired.com/story/meet-the-geek-who-tracks-rogue-satellites-
 ### Encrypted Communication
 [Run your end-to-end encrypted chat server using Matrix and Riot](https://blog.cryptoaustralia.org.au/2017/03/21/run-your-end-to-end-encrypted-chat-server-matrix-riot/)
 
+Using [PGP on Tails](https://www.deepdotweb.com/2017/10/22/basic-guide-pgp-tails/)
+
+[PGP tutorials](https://www.youtube.com/channel/UCfET6btFpe1e0CRGTFOulNg)
+
 ### Understanding your online presence and tracking 
 [Data Selfie](http://dataselfie.it/#/) explores our relationship to the online data we leave behind as a result of media consumption and social networks.
+
+[Psychographics](https://www.youtube.com/watch?v=g5Hx86H3-mc) - if someone could download [these slides](https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/DEFCON-25-Suggy-Sumner-Rage-Against-The-Weaponized-AI-Propaganda-Machine.pdf) and save it to the repo so we don't lose it that would be great!
 
 [Anti-Tracking Bots Radios and Keystroke Injection](https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/DEFCON-25-Weston-Hecker-Opt-Out-or-Deauth-Trying.pdf) - if someone can find the presentation that would be great! If someone can also download the presentation so we don't lose it, also great!
 
@@ -71,9 +79,15 @@ A [story](https://www.wired.com/story/meet-the-geek-who-tracks-rogue-satellites-
 
 A [global map of video cameras](https://kamba4.crux.uberspace.de/)
 
-### OSINT
+### OSINT investigations
+
+Things to [remember while investigating](https://medium.com/@hunchly/jumping-to-osint-conclusions-a97fc5e623f4)
+
+### OSINT techniques
 
 Bellingcat [guides](https://www.bellingcat.com/category/resources/how-tos/)
+
+[OSINT overview](https://osintblog.io/recon-village-ctf-overview-fe8787f3ce7f?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_details_all%3BM%2BShQF%2B8QXG7OcD7%2FERjuQ%3D%3D)
 
 Studying [the Internet's "trash"](https://www.youtube.com/watch?v=wjva6ZJyhwE)
 
@@ -84,10 +98,6 @@ Discovering and triangulating [rogue cell towers](https://www.youtube.com/watch?
 [Track bitcoin payments](http://www.automatingosint.com/blog/2017/09/follow-the-bitcoin-with-python-blockexplorer-and-webhose-io/)
 
 [Investigating data breach](https://www.iafrikan.com/2017/10/18/dracore-data-sciences/)
-
-[Investigating phishing kits](https://duo.com/assets/ebooks/phish-in-a-barrel.pdf) - if someone could download it and save it to the repo so we don't lose it that would be great!
-
-[Collection of phishing kits](https://github.com/duo-labs/phish-collect)
 
 Research into [fake net neutrality comments](https://medium.com/@jeffykao/more-than-a-million-pro-repeal-net-neutrality-comments-were-likely-faked-e9f0e3ed36a6)
 
@@ -103,76 +113,50 @@ Using [Google Analytics codes connect websites](https://www.bellingcat.com/news/
 
 [Connecting cybercrime campaigns](https://asert.arbornetworks.com/double-the-infection-double-the-fun/)
 
-Finding [APT infrastructure](https://threatconnect.com/blog/finding-nemohost-fancy-bear-infrastructure/)
+Finding [APT infrastructure](https://threatconnect.com/blog/finding-nemohost-fancy-bear-infrastructure/) 1
 
-https://www.threatconnect.com/blog/fancy-bear-leverages-blogspot/
-https://medium.com/@hunchly/jumping-to-osint-conclusions-a97fc5e623f4
+Finding [APT infrastructure](https://www.threatconnect.com/blog/fancy-bear-leverages-blogspot/) 2
 
-https://medium.com/@hunchly/advanced-website-analysis-for-osint-ff35373d918f
+Finding [hidden email gateways](https://medium.com/iron-bastion/discovering-hidden-email-servers-with-osint-2dbf07559626)
 
-OSINT with photos and satellite imagry https://medium.com/dfrlab/breakingsyria-assads-latest-offensive-next-to-israeli-borders-3372e306bac9 - google maps is open out of date but easily accessable satellite images
+Tracking [military deployments](https://medium.com/dfrlab/breakingsyria-assads-latest-offensive-next-to-israeli-borders-3372e306bac9) - google maps is open out of date but easily accessable satellite images
 
-# OPSEC
-https://www.youtube.com/watch?v=S8GPTvq1m-w
-https://www.youtube.com/watch?v=NFJqD-LcpIg might need to go elsewhere
+[Operational security mistakes to look for](https://www.youtube.com/watch?v=NFJqD-LcpIg) 1
 
-https://www.wired.com/story/hansa-dutch-police-sting-operation/?CNDID=50740756&mbid=nl_030918_daily_list1_p4
+[Operational security mistakes to look for](https://www.youtube.com/watch?v=bM0PmwOlifE) 2
 
-# Unsure but it needs to go somewhere
+### Takedowns and arrests
+Taking down [a dark web marketplace](https://www.wired.com/story/hansa-dutch-police-sting-operation/?CNDID=50740756&mbid=nl_030918_daily_list1_p4)
 
-https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/DEFCON-25-Suggy-Sumner-Rage-Against-The-Weaponized-AI-Propaganda-Machine.pdf
+Taking down [Scan4You](https://www.wired.com/story/inside-scan4you-takedown/?CNDID=50740756&mbid=nl_051718_daily_list1_p1)
 
-look for preso
+[Fin7 arrests](https://www.wired.com/story/fin7-wild-inner-workings-billion-dollar-hacking-group?mbid=nl_080218_daily_list1_p2&CNDID=53659400)
 
-https://www.wired.com/story/inside-scan4you-takedown/?CNDID=50740756&mbid=nl_051718_daily_list1_p1
+### Phishing
+[Investigating phishing kits](https://duo.com/assets/ebooks/phish-in-a-barrel.pdf) - if someone could download it and save it to the repo so we don't lose it that would be great!
 
-# Trends that should be adopted
+[Collection of phishing kits](https://github.com/duo-labs/phish-collect)
 
-http://www.csoonline.com/article/3214408/data-protection/its-time-for-defensive-worms.html#tk.rss_all
+Anatomy of [a phishing kit](https://medium.com/@0x736A/the-anatomy-of-a-diy-phishing-kit-569f201e882d)
 
-unsure but needs to go somewhere
-https://www.darkreading.com/endpoint/battle-of-the-ais-dont-build-a-better-box-put-your-box-in-a-better-loop/a/d-id/1329682?piddl_msgorder=thrd
+### OPSEC
+[Operational security overview](https://www.youtube.com/watch?v=S8GPTvq1m-w)
 
-incorporate in somewhere
-https://electrospaces.blogspot.com.au/2017/09/are-shadow-brokers-identical-with.html
-check out to see what think
+### Ideas
 
-add other threat intel and antivirus vendors
+[Defensive worms](http://www.csoonline.com/article/3214408/data-protection/its-time-for-defensive-worms.html#tk.rss_all)
 
-https://osintblog.io/recon-village-ctf-overview-fe8787f3ce7f?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_details_all%3BM%2BShQF%2B8QXG7OcD7%2FERjuQ%3D%3D
+[Post TheShadowBrokers](https://www.darkreading.com/endpoint/battle-of-the-ais-dont-build-a-better-box-put-your-box-in-a-better-loop/a/d-id/1329682?piddl_msgorder=thrd)
 
-http://www.cbronline.com/news/cybersecurity/crowdstrike-cto-theft-destruction-just-keystrokes-apart/
+[Crypto anchors](https://www.wired.com/story/crypto-anchors-breach-security?mbid=nl_101217_daily)
 
-http://www.securityweek.com/crafting-your-cyber-threat-intelligence-driven-playbook
+[Neural fuzzing](https://www.darkreading.com/application-security/microsoft-uses-neural-networks-to-make-fuzz-tests-smarter/d/d-id/1330429?) 
 
-https://www.wired.com/story/crypto-anchors-breach-security?mbid=nl_101217_daily
+[DeepLocker](https://www.blackhat.com/us-18/briefings/schedule/#deeplocker---concealing-targeted-attacks-with-ai-locksmithing-11549)
 
-# AI
-https://www.darkreading.com/application-security/microsoft-uses-neural-networks-to-make-fuzz-tests-smarter/d/d-id/1330429?elq_mid=81592&elq_cid=25141692&_mc=NL_DR_EDT_DR_daily_20171115&cid=NL_DR_EDT_DR_daily_20171115&elqTrackId=79ca8d7080d149eb8a11538117353d48&elq=e052f5c4edbd4d2081153bcc9a29b140&elqaid=81592&elqat=1&elqCampaignId=28754
+### Fighting fake news
+[InVID Verification Plugin](http://www.invid-project.eu/tools-and-services/invid-verification-plugin/) for detecting fake news
 
-https://www.blackhat.com/us-18/briefings/schedule/#deeplocker---concealing-targeted-attacks-with-ai-locksmithing-11549 when I looked the talk had not been uploaded yet
-
-# Phishing
-https://www.wired.com/story/fin7-wild-inner-workings-billion-dollar-hacking-group?mbid=nl_080218_daily_list1_p2&CNDID=53659400
-
-# Anti-Phishing
-
-Phishing kits
-https://medium.com/@0x736A_88164/the-anatomy-of-a-diy-phishing-kit-569f201e882d
-
-https://www.darkreading.com/partner-perspectives/f5/url-obfuscation-still-a-phishers-phriend/
-
-waste a phishers time https://www.netsafe.org.nz/rescam/
-
-# Encryption
-
-infosecbytes.org
-
-https://www.deepdotweb.com/2017/10/22/basic-guide-pgp-tails/
-
-# Fighting fake news
-
-http://www.invid-project.eu/tools-and-services/invid-verification-plugin/
 https://www.irex.org/project/learn-discern
 https://arstechnica.com/tech-policy/2017/11/by-years-end-youll-know-if-you-liked-a-kremlin-created-facebook-page/
 https://www.rollingstone.com/politics/news/pizzagate-anatomy-of-a-fake-news-scandal-w511904
