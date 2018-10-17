@@ -32,6 +32,8 @@ This is not a comprehensive list, just a list of resources that might be useful 
 * [Google Docs](https://docs.google.com/spreadsheets/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml#)
 
 ### Lists of tools and tutorials
+The [OSINT framework](https://osintframework.com/)
+
 All the [tools](https://medium.com/@drag0n/black-hat-2018-tools-list-991fa38901da) demoed at the 2018 Black Hat Conference
 
 [Malc0de](http://malc0de.com/dashboard/) - Useful resources for malware analysis 
