@@ -51,8 +51,15 @@ Top 5 [Publicly Available Tools Seen in Cyber Incidents Worldwide](https://www.u
 
 [Command-line utility for using websites that can perform port scans](https://github.com/vesche/scanless)
 
+[check Event Logs manipulated with NSA Hacking Tool](https://www.securityweek.com/event-logs-manipulated-nsa-hacking-tool-recoverable)
+
+Finding [Twitter bots](https://www.securityweek.com/new-open-source-tools-help-find-large-twitter-botnets)
+
+[Troll hunting](https://medium.com/mit-technology-review/data-mining-has-revealed-previously-unknown-russian-twitter-troll-campaigns-8efeabf74909)
+
 ### Exploits
 [EQGRP](https://github.com/x0rz/EQGRP)
+
 [Fuzzbunch](https://github.com/fuzzbunch/fuzzbunch)
 
 ### Surveillance flights and satelites
@@ -82,7 +89,11 @@ Using [PGP on Tails](https://www.deepdotweb.com/2017/10/22/basic-guide-pgp-tails
 
 [Hiding from the Internet](https://inteltechniques.com/data/workbook.pdf) - Eliminating Personal Online Information - If someone could download this and load it onto the repo so we don't lose it that would be great!
 
-### CCTV Cameras
+[Stylometry](https://www.wired.com/story/machine-learning-identify-anonymous-code/?CNDID=53659400&mbid=nl_081018_daily_list1_p1)
+
+### Urban science
+
+An [overview of urban science](https://www.wired.com/story/mit-urban-sciences-program/?CNDID=53659400&mbid=nl_062518_daily_list3_p1)
 
 A [global map of video cameras](https://kamba4.crux.uberspace.de/)
 
@@ -132,12 +143,16 @@ Tracking [military deployments](https://medium.com/dfrlab/breakingsyria-assads-l
 
 [Operational security mistakes to look for](https://www.youtube.com/watch?v=bM0PmwOlifE) 2
 
-### Takedowns and arrests
+### Takedowns, hacks and arrests
 Taking down [a dark web marketplace](https://www.wired.com/story/hansa-dutch-police-sting-operation/?CNDID=50740756&mbid=nl_030918_daily_list1_p4)
 
 Taking down [Scan4You](https://www.wired.com/story/inside-scan4you-takedown/?CNDID=50740756&mbid=nl_051718_daily_list1_p1)
 
 [Fin7 arrests](https://www.wired.com/story/fin7-wild-inner-workings-billion-dollar-hacking-group?mbid=nl_080218_daily_list1_p2&CNDID=53659400)
+
+Taking down [Hacking Team](https://arstechnica.com/information-technology/2016/04/how-hacking-team-got-hacked-phineas-phisher/)
+
+Arrest of [Vault 7 leaker](https://nakedsecurity.sophos.com/2018/06/20/alleged-vault-7-leaker-was-busted-because-of-basic-security-blunders/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+nakedsecurity+%28Naked+Security+-+Sophos%29)
 
 ### Phishing
 [Investigating phishing kits](https://duo.com/assets/ebooks/phish-in-a-barrel.pdf) - if someone could download it and save it to the repo so we don't lose it that would be great!
@@ -174,7 +189,7 @@ Anatony of a [fake news scandal](https://www.rollingstone.com/politics/news/pizz
 
 [Newsguard browser extension](https://www.wired.com/story/newsguard-extension-fake-news-trust-score?mbid=nl_082318_daily_list3_p2&CNDID=53659400) for spotting fake news
 
-# Malware
+### Malware
 [Track ransomware](https://ransomwaretracker.abuse.ch/)
 
 [Track spam](https://www.spamhaus.org/organization/) and related threats
@@ -187,45 +202,14 @@ Anatony of a [fake news scandal](https://www.rollingstone.com/politics/news/pizz
 
 [Scan samples with YARA rules](https://github.com/KasperskyLab/klara)
 
+### Experimental attacks
+[Steal Data From Air-Gapped Industrial Networks via PLCs](http://www.securityweek.com/hackers-can-steal-data-air-gapped-industrial-networks-plcs) - If someone can link to the actual material that would be amazing!
 
-# SCADA
-http://www.securityweek.com/hackers-can-steal-data-air-gapped-industrial-networks-plcs
+[Ultrasonic sound side channel attack](https://www.wired.com/story/monitor-ultrasonic-sounds-reveal-content-side-channel?mbid=nl_082418_daily_list3_p5&CNDID=53659400) - If someone can link to the actual material that would be amazing!
 
-# EventLogEdit detector
-http://www.securityweek.com/event-logs-manipulated-nsa-hacking-tool-recoverable
+### Shellcode
+[https://azeria-labs.com/tcp-bind-shell-in-assembly-arm-32-bit/](https://azeria-labs.com/tcp-bind-shell-in-assembly-arm-32-bit/)
 
-# Shellcode
-https://azeria-labs.com/tcp-bind-shell-in-assembly-arm-32-bit/
+### Physical security
 
-# Hacking examples
-https://arstechnica.com/information-technology/2016/04/how-hacking-team-got-hacked-phineas-phisher/
-
-# Detecting bugs
-https://media.ccc.de/v/34c3-8735-spy_vs_spy_a_modern_study_of_microphone_bugs_operation_and_detection
-
-# Online community
-https://pursuanceproject.org/
-
-# what not to do
-https://nakedsecurity.sophos.com/2018/06/20/alleged-vault-7-leaker-was-busted-because-of-basic-security-blunders/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+nakedsecurity+%28Naked+Security+-+Sophos%29
-
-# Urban science
-https://www.wired.com/story/mit-urban-sciences-program/?CNDID=53659400&mbid=nl_062518_daily_list3_p1
-
-# starttls-everywhere
-https://www.securityweek.com/eff-secures-email-delivery-starttls-everywhere
-
-# Finding Twitter bots
-https://www.securityweek.com/new-open-source-tools-help-find-large-twitter-botnets
-
-# stylometry
-https://www.wired.com/story/machine-learning-identify-anonymous-code/?CNDID=53659400&mbid=nl_081018_daily_list1_p1
-
-# secruity research
-https://www.wired.com/story/monitor-ultrasonic-sounds-reveal-content-side-channel?mbid=nl_082418_daily_list3_p5&CNDID=53659400
-
-# Troll hunting
-https://medium.com/mit-technology-review/data-mining-has-revealed-previously-unknown-russian-twitter-troll-campaigns-8efeabf74909
-
-# Bellingcat
-https://www.npr.org/2018/10/12/656869598/meet-the-internet-researchers-unmasking-russian-assassins?ft=nprml&f=1001
+[Detecting microphones](https://media.ccc.de/v/34c3-8735-spy_vs_spy_a_modern_study_of_microphone_bugs_operation_and_detection)
