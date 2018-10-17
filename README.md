@@ -41,6 +41,11 @@ List of [open source research tools](https://motherboard.vice.com/en_us/article/
 
 List of [privacy](https://www.activism.net/cypherpunk/) resources
 
+Top 5 [Publicly Available Tools Seen in Cyber Incidents Worldwide](https://www.us-cert.gov/ncas/alerts/AA18-284A)
+
+### Tutorials for tools
+[Exploring the Burp Suite API](https://laconicwolf.com/2018/08/27/exploring-the-burp-suite-api/)
+
 ### Surveillance flights and satelites
 [Sky Spy Watch](https://github.com/nstarpost/SkySpyWatch) - Convert flight path data collected from Virtual Radar Server and filter for potential surveillance activity
 
@@ -66,49 +71,39 @@ A [story](https://www.wired.com/story/meet-the-geek-who-tracks-rogue-satellites-
 
 A [global map of video cameras](https://kamba4.crux.uberspace.de/)
 
-# Kali
+### OSINT
 
-# Kali tools
+Bellingcat [guides](https://www.bellingcat.com/category/resources/how-tos/)
 
-https://laconicwolf.com/2018/08/27/exploring-the-burp-suite-api/
+Studying [the Internet's "trash"](https://www.youtube.com/watch?v=wjva6ZJyhwE)
 
-# General tools
-https://www.us-cert.gov/ncas/alerts/AA18-284A
+Discovering and triangulating [rogue cell towers](https://www.youtube.com/watch?v=bbDAa0syz5A)
 
-# OSINT
+[Tracking down abused children](https://medium.com/@thegrugq/fascinating-glimpse-into-police-investigation-7d9b1360c903?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BI4F%2BssgtTPyPGT1jSEbjvA%3D%3D)
 
-https://www.youtube.com/watch?v=wjva6ZJyhwE
+[Track bitcoin payments](http://www.automatingosint.com/blog/2017/09/follow-the-bitcoin-with-python-blockexplorer-and-webhose-io/)
 
-https://www.youtube.com/watch?v=bbDAa0syz5A
+[Investigating data breach](https://www.iafrikan.com/2017/10/18/dracore-data-sciences/)
 
-https://medium.com/@thegrugq/fascinating-glimpse-into-police-investigation-7d9b1360c903?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BI4F%2BssgtTPyPGT1jSEbjvA%3D%3D
+[Investigating phishing kits](https://duo.com/assets/ebooks/phish-in-a-barrel.pdf) - if someone could download it and save it to the repo so we don't lose it that would be great!
 
-http://www.automatingosint.com/blog/2017/09/follow-the-bitcoin-with-python-blockexplorer-and-webhose-io/
+[Collection of phishing kits](https://github.com/duo-labs/phish-collect)
 
-https://www.iafrikan.com/2017/10/18/dracore-data-sciences/
+Research into [fake net neutrality comments](https://medium.com/@jeffykao/more-than-a-million-pro-repeal-net-neutrality-comments-were-likely-faked-e9f0e3ed36a6)
 
-http://www.securityweek.com/analysis-3200-phishing-kits-sheds-light-attacker-tools-and-techniques
+An OSINT investigation into [the personnel of APT 3](https://intrusiontruth.wordpress.com/category/apt3/) - subsequent [charges were laid](https://arstechnica.com/tech-policy/2017/11/security-firm-was-front-for-advanced-chinese-hacking-operation-feds-say/)
 
-https://medium.com/@jeffykao/more-than-a-million-pro-repeal-net-neutrality-comments-were-likely-faked-e9f0e3ed36a6
+Open-Source Information Reveals [Pro-Kremlin Web Campaign](https://globalvoices.org/2015/07/13/open-source-information-reveals-pro-kremlin-web-campaign/)
 
-https://intrusiontruth.wordpress.com/2017/04/26/who-is-behind-this-chinese-espionage-group-stealing-our-intellectual-property/
+Automatically discover [website connections through tracking codes](https://www.bellingcat.com/resources/2017/07/31/automatically-discover-website-connections-tracking-codes/)
 
-https://arstechnica.com/tech-policy/2017/11/security-firm-was-front-for-advanced-chinese-hacking-operation-feds-say/
+Using [Google Analytics codes connect websites](https://www.bellingcat.com/news/africa/2017/08/04/guptaleaks-google-analytics/)
 
-https://globalvoices.org/2015/07/13/open-source-information-reveals-pro-kremlin-web-campaign/
+[Connecting malware campaigns](https://benkowlab.blogspot.com.au/2017/12/another-normal-day-in-cybercrime-from.html)
 
-https://www.bellingcat.com/resources/2017/07/31/automatically-discover-website-connections-tracking-codes/
+[Connecting cybercrime campaigns](https://asert.arbornetworks.com/double-the-infection-double-the-fun/)
 
-https://www.bellingcat.com/news/africa/2017/08/04/guptaleaks-google-analytics/
-
-http://amabhungane.co.za/article/2017-07-26-exclusive-indian-it-guru-linked-to-fake-wmc-sites
-
-cybercrime to out of our scope, but good techniques to use 
-https://benkowlab.blogspot.com.au/2017/12/another-normal-day-in-cybercrime-from.html
-https://www.securityweek.com/new-cobalt-campaign-targets-russian-and-romanian-banks
-https://asert.arbornetworks.com/double-the-infection-double-the-fun/
-
-https://threatconnect.com/blog/finding-nemohost-fancy-bear-infrastructure/
+Finding [APT infrastructure](https://threatconnect.com/blog/finding-nemohost-fancy-bear-infrastructure/)
 
 https://www.threatconnect.com/blog/fancy-bear-leverages-blogspot/
 https://medium.com/@hunchly/jumping-to-osint-conclusions-a97fc5e623f4
