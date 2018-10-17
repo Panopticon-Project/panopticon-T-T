@@ -3,24 +3,29 @@
 # Panopticon Project
 
 ## Tools and Techniques
+This is not a comprehensive list, just a list of resources that might be useful to people working on P2
 
 ## Table of Contents
 
 - [Other databases](#other-databases)
-- [Why does Panopticon Project exist?](#why-does-panopticon-project-exist)
-- [I don't know much about these topics and need a primer](#i-dont-know-much-about-these-topics-and-need-a-primer)
-- [Who can contribute to P2?](#who-can-contribute-to-p2)
-- [How can I get involved?](#how-can-i-get-involved)
-- [What does P2 need?](#what-does-p2-need)
-- [I want to get in touch with P2](#i-want-to-get-in-touch-with-p2)
-- [I want to leak something to P2](#i-want-to-leak-something-to-p2)
-- [I still need to get in touch with P2 in a secure manner](#i-still-need-to-get-in-touch-with-p2-in-a-secure-manner)
-- [How do I start?](#how-do-i-start)
-- [There is one thing I'd ask of you](#there-is-one-thing-id-ask-of-you)
-- [Licenses](#licenses)
-- [The connection between Panopticon Project and the idea of the Open Web](#the-connection-between-panopticon-project-and-the-idea-of-the-open-web)
-- [I have objections to this project!](#i-have-objections-to-this-project)
-- [Thank you](#thank-you)
+- [Lists of tools and tutorials](#lists-of-tools-and-tutorials)
+- [Exploits](#exploits)
+- [Shellcode](#shellcode)
+- [OSINT investigations](#osint-investigations)
+- [OSINT techniques](#osint-techniques)
+- [Takedowns, hacks and arrests](#takedowns-hacks-and-arrests)
+- [Understanding your online presence and tracking ](#understanding-your-online-presence-and-tracking)
+- [Operational Security (OPSEC)](#operational-security-opsec)
+- [Encrypted communication](#encrypted-communication)
+- [Government influence](#government-influence)
+- [Urban science](#urban-science)
+- [Fighting fake news](#fighting-fake-news)
+- [Phishing](#phishing)
+- [Malware](#malware)
+- [Surveillance flights and satelites](#surveillance-flights-and-satelites)
+- [Physical security](#physical-security)
+- [Experimental attacks](#experimental-attacks)
+- [Ideas](#ideas)
 
 ### Other databases
 * [Airtable](https://airtable.com/shr3Po3DsZUQZY4we/tbljpA5wI1IaLI4Gv/viwGFVFtuu0l88e7u)
@@ -115,6 +120,7 @@ Taking down [Scan4You](https://www.wired.com/story/inside-scan4you-takedown/?CND
 Taking down [Hacking Team](https://arstechnica.com/information-technology/2016/04/how-hacking-team-got-hacked-phineas-phisher/)
 
 Arrest of [Vault 7 leaker](https://nakedsecurity.sophos.com/2018/06/20/alleged-vault-7-leaker-was-busted-because-of-basic-security-blunders/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+nakedsecurity+%28Naked+Security+-+Sophos%29)
+
 ### Understanding your online presence and tracking 
 [Data Selfie](http://dataselfie.it/#/) explores our relationship to the online data we leave behind as a result of media consumption and social networks.
 
@@ -130,10 +136,10 @@ Arrest of [Vault 7 leaker](https://nakedsecurity.sophos.com/2018/06/20/alleged-v
 
 [Stylometry](https://www.wired.com/story/machine-learning-identify-anonymous-code/?CNDID=53659400&mbid=nl_081018_daily_list1_p1)
 
-### OPSEC
+### Operational Security (OPSEC)
 [Operational security overview](https://www.youtube.com/watch?v=S8GPTvq1m-w)
 
-### Encrypted Communication
+### Encrypted communication
 [Run your end-to-end encrypted chat server using Matrix and Riot](https://blog.cryptoaustralia.org.au/2017/03/21/run-your-end-to-end-encrypted-chat-server-matrix-riot/)
 
 Using [PGP on Tails](https://www.deepdotweb.com/2017/10/22/basic-guide-pgp-tails/)
