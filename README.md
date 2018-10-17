@@ -32,7 +32,7 @@
 
 An [article](https://arstechnica.com/gadgets/2017/08/new-web-tool-tracks-russian-influence-ops-on-twitter/) on Hamilton 68
 
-### Lists of tools
+### Lists of tools and tutorials
 All the [tools](https://medium.com/@drag0n/black-hat-2018-tools-list-991fa38901da) demoed at the 2018 Black Hat Conference
 
 [Malc0de](http://malc0de.com/dashboard/) - Useful resources for malware analysis 
@@ -45,8 +45,15 @@ Top 5 [Publicly Available Tools Seen in Cyber Incidents Worldwide](https://www.u
 
 [Google Chrome tools](https://medium.com/@hunchly/advanced-website-analysis-for-osint-ff35373d918f) for website analysis
 
-### Tutorials for tools
 [Exploring the Burp Suite API](https://laconicwolf.com/2018/08/27/exploring-the-burp-suite-api/)
+
+[CyberChef](https://isc.sans.edu/forums/diary/CyberChef+BASE64XOR+Recipe/24212/) for BASE64/XOR decoding
+
+[Command-line utility for using websites that can perform port scans](https://github.com/vesche/scanless)
+
+### Exploits
+[EQGRP](https://github.com/x0rz/EQGRP)
+[Fuzzbunch](https://github.com/fuzzbunch/fuzzbunch)
 
 ### Surveillance flights and satelites
 [Sky Spy Watch](https://github.com/nstarpost/SkySpyWatch) - Convert flight path data collected from Virtual Radar Server and filter for potential surveillance activity
@@ -157,38 +164,29 @@ Anatomy of [a phishing kit](https://medium.com/@0x736A/the-anatomy-of-a-diy-phis
 ### Fighting fake news
 [InVID Verification Plugin](http://www.invid-project.eu/tools-and-services/invid-verification-plugin/) for detecting fake news
 
-https://www.irex.org/project/learn-discern
-https://arstechnica.com/tech-policy/2017/11/by-years-end-youll-know-if-you-liked-a-kremlin-created-facebook-page/
-https://www.rollingstone.com/politics/news/pizzagate-anatomy-of-a-fake-news-scandal-w511904
-https://www.wired.com/story/surfsafe-browser-extension-save-you-from-fake-photos/?CNDID=53659400&mbid=nl_082018_daily_list3_p3
-https://www.wired.com/story/newsguard-extension-fake-news-trust-score?mbid=nl_082318_daily_list3_p2&CNDID=53659400
+[Media Literacy Training](https://www.irex.org/project/learn-discern)
+
+Check if you've liked a [Facebook Page created by Russian trolls](https://www.facebook.com/help/817246628445509?helpref=faq_content) 
+
+Anatony of a [fake news scandal](https://www.rollingstone.com/politics/news/pizzagate-anatomy-of-a-fake-news-scandal-w511904)
+
+[SurfSafe browser extension](https://www.wired.com/story/surfsafe-browser-extension-save-you-from-fake-photos/?CNDID=53659400&mbid=nl_082018_daily_list3_p3) for spotting fake photos
+
+[Newsguard browser extension](https://www.wired.com/story/newsguard-extension-fake-news-trust-score?mbid=nl_082318_daily_list3_p2&CNDID=53659400) for spotting fake news
 
 # Malware
+[Track ransomware](https://ransomwaretracker.abuse.ch/)
 
-https://ransomwaretracker.abuse.ch/
-https://www.spamhaus.org/organization/
-https://isc.sans.edu/
-https://www.virustotal.com/#/home/upload
-https://virusshare.com/
-https://www.alienvault.com/blogs
-https://blogs.cisco.com/talos
-https://www.crowdstrike.com/blog/category/threat-intel-research/
-https://www.fireeye.com/blog/threat-research.html
-https://researchcenter.paloaltonetworks.com/unit42/?recent
-https://www.recordedfuture.com/blog/
-https://blogs.technet.microsoft.com/mmpc/2017/11/
-http://www.securityweek.com/avast-open-sources-machine-code-decompiler-battle-against-malware
+[Track spam](https://www.spamhaus.org/organization/) and related threats
 
-# AV
-https://github.com/KasperskyLab/klara
+[Analyze suspicious files and URLs](https://www.virustotal.com/#/home/upload) to detect types of malware
 
-# Port scanning
-https://github.com/vesche/scanless
-Command-line utility for using websites that can perform port scans on your behalf. Useful for early stages of a penetration test or if you'd like to run a port scan on a host and have it not come from your IP address.
+[Repository of malware samples](https://virusshare.com/)
 
-# Government exploits
-https://github.com/x0rz/EQGRP
-https://github.com/fuzzbunch/fuzzbunch
+[Machine-code decompiler](https://github.com/avast-tl/retdec)
+
+[Scan samples with YARA rules](https://github.com/KasperskyLab/klara)
+
 
 # SCADA
 http://www.securityweek.com/hackers-can-steal-data-air-gapped-industrial-networks-plcs
