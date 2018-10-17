@@ -26,12 +26,6 @@
 * [Airtable](https://airtable.com/shr3Po3DsZUQZY4we/tbljpA5wI1IaLI4Gv/viwGFVFtuu0l88e7u)
 * [Google Docs](https://docs.google.com/spreadsheets/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml#)
 
-### Government influence
-
-[Hamiltion 68](http://dashboard.securingdemocracy.org/) - Tracking Russian influence operations on Twitter
-
-An [article](https://arstechnica.com/gadgets/2017/08/new-web-tool-tracks-russian-influence-ops-on-twitter/) on Hamilton 68
-
 ### Lists of tools and tutorials
 All the [tools](https://medium.com/@drag0n/black-hat-2018-tools-list-991fa38901da) demoed at the 2018 Black Hat Conference
 
@@ -62,40 +56,8 @@ Finding [Twitter bots](https://www.securityweek.com/new-open-source-tools-help-f
 
 [Fuzzbunch](https://github.com/fuzzbunch/fuzzbunch)
 
-### Surveillance flights and satelites
-[Sky Spy Watch](https://github.com/nstarpost/SkySpyWatch) - Convert flight path data collected from Virtual Radar Server and filter for potential surveillance activity
-
-A [presentation](https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/DEFCON-25-Hernandez-Richards-MacDonald-Evoy-Tracking-Spies-in-the-Skies.pdf) on Sky Spy Watch - if someone could download it and save it to the repo so we don't lose it that would be great!
-
-A [story](https://www.wired.com/story/meet-the-geek-who-tracks-rogue-satellites-with-coat-hangers/?mbid=nl_101317_daily) on tracking spy satelites
-
-### Encrypted Communication
-[Run your end-to-end encrypted chat server using Matrix and Riot](https://blog.cryptoaustralia.org.au/2017/03/21/run-your-end-to-end-encrypted-chat-server-matrix-riot/)
-
-Using [PGP on Tails](https://www.deepdotweb.com/2017/10/22/basic-guide-pgp-tails/)
-
-[PGP tutorials](https://www.youtube.com/channel/UCfET6btFpe1e0CRGTFOulNg)
-
-### Understanding your online presence and tracking 
-[Data Selfie](http://dataselfie.it/#/) explores our relationship to the online data we leave behind as a result of media consumption and social networks.
-
-[Psychographics](https://www.youtube.com/watch?v=g5Hx86H3-mc) - if someone could download [these slides](https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/DEFCON-25-Suggy-Sumner-Rage-Against-The-Weaponized-AI-Propaganda-Machine.pdf) and save it to the repo so we don't lose it that would be great!
-
-[Anti-Tracking Bots Radios and Keystroke Injection](https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/DEFCON-25-Weston-Hecker-Opt-Out-or-Deauth-Trying.pdf) - if someone can find the presentation that would be great! If someone can also download the presentation so we don't lose it, also great!
-
-[Dark Data](https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/DEFCON-25-Svea-Eckert-Andreas-Dewes-Dark-Data.pdf) - if someone can find the presentation that would be great! If someone can also download the presentation so we don't lose it, also great!
-
-[Receptiviti](http://www.receptiviti.ai/) - Analyze language across contexts and over time
-
-[Hiding from the Internet](https://inteltechniques.com/data/workbook.pdf) - Eliminating Personal Online Information - If someone could download this and load it onto the repo so we don't lose it that would be great!
-
-[Stylometry](https://www.wired.com/story/machine-learning-identify-anonymous-code/?CNDID=53659400&mbid=nl_081018_daily_list1_p1)
-
-### Urban science
-
-An [overview of urban science](https://www.wired.com/story/mit-urban-sciences-program/?CNDID=53659400&mbid=nl_062518_daily_list3_p1)
-
-A [global map of video cameras](https://kamba4.crux.uberspace.de/)
+### Shellcode
+[https://azeria-labs.com/tcp-bind-shell-in-assembly-arm-32-bit/](https://azeria-labs.com/tcp-bind-shell-in-assembly-arm-32-bit/)
 
 ### OSINT investigations
 
@@ -153,28 +115,40 @@ Taking down [Scan4You](https://www.wired.com/story/inside-scan4you-takedown/?CND
 Taking down [Hacking Team](https://arstechnica.com/information-technology/2016/04/how-hacking-team-got-hacked-phineas-phisher/)
 
 Arrest of [Vault 7 leaker](https://nakedsecurity.sophos.com/2018/06/20/alleged-vault-7-leaker-was-busted-because-of-basic-security-blunders/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+nakedsecurity+%28Naked+Security+-+Sophos%29)
+### Understanding your online presence and tracking 
+[Data Selfie](http://dataselfie.it/#/) explores our relationship to the online data we leave behind as a result of media consumption and social networks.
 
-### Phishing
-[Investigating phishing kits](https://duo.com/assets/ebooks/phish-in-a-barrel.pdf) - if someone could download it and save it to the repo so we don't lose it that would be great!
+[Psychographics](https://www.youtube.com/watch?v=g5Hx86H3-mc) - if someone could download [these slides](https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/DEFCON-25-Suggy-Sumner-Rage-Against-The-Weaponized-AI-Propaganda-Machine.pdf) and save it to the repo so we don't lose it that would be great!
 
-[Collection of phishing kits](https://github.com/duo-labs/phish-collect)
+[Anti-Tracking Bots Radios and Keystroke Injection](https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/DEFCON-25-Weston-Hecker-Opt-Out-or-Deauth-Trying.pdf) - if someone can find the presentation that would be great! If someone can also download the presentation so we don't lose it, also great!
 
-Anatomy of [a phishing kit](https://medium.com/@0x736A/the-anatomy-of-a-diy-phishing-kit-569f201e882d)
+[Dark Data](https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/DEFCON-25-Svea-Eckert-Andreas-Dewes-Dark-Data.pdf) - if someone can find the presentation that would be great! If someone can also download the presentation so we don't lose it, also great!
+
+[Receptiviti](http://www.receptiviti.ai/) - Analyze language across contexts and over time
+
+[Hiding from the Internet](https://inteltechniques.com/data/workbook.pdf) - Eliminating Personal Online Information - If someone could download this and load it onto the repo so we don't lose it that would be great!
+
+[Stylometry](https://www.wired.com/story/machine-learning-identify-anonymous-code/?CNDID=53659400&mbid=nl_081018_daily_list1_p1)
 
 ### OPSEC
 [Operational security overview](https://www.youtube.com/watch?v=S8GPTvq1m-w)
 
-### Ideas
+### Encrypted Communication
+[Run your end-to-end encrypted chat server using Matrix and Riot](https://blog.cryptoaustralia.org.au/2017/03/21/run-your-end-to-end-encrypted-chat-server-matrix-riot/)
 
-[Defensive worms](http://www.csoonline.com/article/3214408/data-protection/its-time-for-defensive-worms.html#tk.rss_all)
+Using [PGP on Tails](https://www.deepdotweb.com/2017/10/22/basic-guide-pgp-tails/)
 
-[Post TheShadowBrokers](https://www.darkreading.com/endpoint/battle-of-the-ais-dont-build-a-better-box-put-your-box-in-a-better-loop/a/d-id/1329682?piddl_msgorder=thrd)
+[PGP tutorials](https://www.youtube.com/channel/UCfET6btFpe1e0CRGTFOulNg)
 
-[Crypto anchors](https://www.wired.com/story/crypto-anchors-breach-security?mbid=nl_101217_daily)
+### Government influence
+[Hamiltion 68](http://dashboard.securingdemocracy.org/) - Tracking Russian influence operations on Twitter
 
-[Neural fuzzing](https://www.darkreading.com/application-security/microsoft-uses-neural-networks-to-make-fuzz-tests-smarter/d/d-id/1330429?) 
+An [article](https://arstechnica.com/gadgets/2017/08/new-web-tool-tracks-russian-influence-ops-on-twitter/) on Hamilton 68
 
-[DeepLocker](https://www.blackhat.com/us-18/briefings/schedule/#deeplocker---concealing-targeted-attacks-with-ai-locksmithing-11549)
+### Urban science
+An [overview of urban science](https://www.wired.com/story/mit-urban-sciences-program/?CNDID=53659400&mbid=nl_062518_daily_list3_p1)
+
+A [global map of video cameras](https://kamba4.crux.uberspace.de/)
 
 ### Fighting fake news
 [InVID Verification Plugin](http://www.invid-project.eu/tools-and-services/invid-verification-plugin/) for detecting fake news
@@ -189,6 +163,13 @@ Anatony of a [fake news scandal](https://www.rollingstone.com/politics/news/pizz
 
 [Newsguard browser extension](https://www.wired.com/story/newsguard-extension-fake-news-trust-score?mbid=nl_082318_daily_list3_p2&CNDID=53659400) for spotting fake news
 
+### Phishing
+[Investigating phishing kits](https://duo.com/assets/ebooks/phish-in-a-barrel.pdf) - if someone could download it and save it to the repo so we don't lose it that would be great!
+
+[Collection of phishing kits](https://github.com/duo-labs/phish-collect)
+
+Anatomy of [a phishing kit](https://medium.com/@0x736A/the-anatomy-of-a-diy-phishing-kit-569f201e882d)
+
 ### Malware
 [Track ransomware](https://ransomwaretracker.abuse.ch/)
 
@@ -202,14 +183,28 @@ Anatony of a [fake news scandal](https://www.rollingstone.com/politics/news/pizz
 
 [Scan samples with YARA rules](https://github.com/KasperskyLab/klara)
 
+### Surveillance flights and satelites
+[Sky Spy Watch](https://github.com/nstarpost/SkySpyWatch) - Convert flight path data collected from Virtual Radar Server and filter for potential surveillance activity
+
+A [presentation](https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/DEFCON-25-Hernandez-Richards-MacDonald-Evoy-Tracking-Spies-in-the-Skies.pdf) on Sky Spy Watch - if someone could download it and save it to the repo so we don't lose it that would be great!
+
+A [story](https://www.wired.com/story/meet-the-geek-who-tracks-rogue-satellites-with-coat-hangers/?mbid=nl_101317_daily) on tracking spy satelites
+
+### Physical security
+[Detecting microphones](https://media.ccc.de/v/34c3-8735-spy_vs_spy_a_modern_study_of_microphone_bugs_operation_and_detection)
+
 ### Experimental attacks
 [Steal Data From Air-Gapped Industrial Networks via PLCs](http://www.securityweek.com/hackers-can-steal-data-air-gapped-industrial-networks-plcs) - If someone can link to the actual material that would be amazing!
 
 [Ultrasonic sound side channel attack](https://www.wired.com/story/monitor-ultrasonic-sounds-reveal-content-side-channel?mbid=nl_082418_daily_list3_p5&CNDID=53659400) - If someone can link to the actual material that would be amazing!
 
-### Shellcode
-[https://azeria-labs.com/tcp-bind-shell-in-assembly-arm-32-bit/](https://azeria-labs.com/tcp-bind-shell-in-assembly-arm-32-bit/)
+### Ideas
+[Defensive worms](http://www.csoonline.com/article/3214408/data-protection/its-time-for-defensive-worms.html#tk.rss_all)
 
-### Physical security
+[Post TheShadowBrokers](https://www.darkreading.com/endpoint/battle-of-the-ais-dont-build-a-better-box-put-your-box-in-a-better-loop/a/d-id/1329682?piddl_msgorder=thrd)
 
-[Detecting microphones](https://media.ccc.de/v/34c3-8735-spy_vs_spy_a_modern_study_of_microphone_bugs_operation_and_detection)
+[Crypto anchors](https://www.wired.com/story/crypto-anchors-breach-security?mbid=nl_101217_daily)
+
+[Neural fuzzing](https://www.darkreading.com/application-security/microsoft-uses-neural-networks-to-make-fuzz-tests-smarter/d/d-id/1330429?) 
+
+[DeepLocker](https://www.blackhat.com/us-18/briefings/schedule/#deeplocker---concealing-targeted-attacks-with-ai-locksmithing-11549)
