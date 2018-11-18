@@ -123,6 +123,8 @@ Taking down [Hacking Team](https://arstechnica.com/information-technology/2016/0
 
 Arrest of [Vault 7 leaker](https://nakedsecurity.sophos.com/2018/06/20/alleged-vault-7-leaker-was-busted-because-of-basic-security-blunders/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+nakedsecurity+%28Naked+Security+-+Sophos%29)
 
+Disovering who is behind [attacks on Telegram users](https://blog.talosintelligence.com/2018/11/persian-stalker.html)
+
 ### Understanding your online presence and tracking 
 [Data Selfie](http://dataselfie.it/#/) explores our relationship to the online data we leave behind as a result of media consumption and social networks.
 
