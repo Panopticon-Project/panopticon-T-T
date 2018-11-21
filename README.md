@@ -112,6 +112,8 @@ Tracking [military deployments](https://medium.com/dfrlab/breakingsyria-assads-l
 
 [Operational security mistakes to look for](https://www.youtube.com/watch?v=bM0PmwOlifE) 2
 
+[Uncovering social media profiles](https://www.recordedfuture.com/tessa88-identity-revealed/) of threat actors
+
 ### Takedowns, hacks and arrests
 Taking down [a dark web marketplace](https://www.wired.com/story/hansa-dutch-police-sting-operation/?CNDID=50740756&mbid=nl_030918_daily_list1_p4)
 
