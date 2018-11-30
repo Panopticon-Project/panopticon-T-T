@@ -11,6 +11,7 @@ This is not a comprehensive list, just a list of resources that might be useful 
 - [Lists of tools and tutorials](#lists-of-tools-and-tutorials)
 - [Exploits](#exploits)
 - [Shellcode](#shellcode)
+- [Penetration Testing](#penetration-testing)
 - [OSINT investigations](#osint-investigations)
 - [OSINT techniques](#osint-techniques)
 - [Takedowns, hacks and arrests](#takedowns-hacks-and-arrests)
@@ -65,6 +66,11 @@ Finding [Twitter bots](https://www.securityweek.com/new-open-source-tools-help-f
 
 ### Shellcode
 [https://azeria-labs.com/tcp-bind-shell-in-assembly-arm-32-bit/](https://azeria-labs.com/tcp-bind-shell-in-assembly-arm-32-bit/)
+
+### Penetration Testing
+All types of [payloads](https://github.com/swisskyrepo/PayloadsAllTheThings)
+
+[Security tester's companion](https://github.com/danielmiessler/SecLists)
 
 ### OSINT investigations
 
