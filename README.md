@@ -23,6 +23,7 @@ This is not a comprehensive list, just a list of resources that might be useful 
 - [Fighting fake news](#fighting-fake-news)
 - [Phishing](#phishing)
 - [Malware](#malware)
+- [Malware Analysis](#malware-analysis)
 - [Surveillance flights and satelites](#surveillance-flights-and-satelites)
 - [Physical security](#physical-security)
 - [Experimental attacks](#experimental-attacks)
@@ -202,6 +203,9 @@ Anatomy of [a phishing kit](https://medium.com/@0x736A/the-anatomy-of-a-diy-phis
 [Machine-code decompiler](https://github.com/avast-tl/retdec)
 
 [Scan samples with YARA rules](https://github.com/KasperskyLab/klara)
+
+### Malware Analysis
+[Getting started](https://0ffset.wordpress.com/2018/12/08/getting-started-with-malware-analysis/)
 
 ### Surveillance flights and satelites
 [Sky Spy Watch](https://github.com/nstarpost/SkySpyWatch) - Convert flight path data collected from Virtual Radar Server and filter for potential surveillance activity
