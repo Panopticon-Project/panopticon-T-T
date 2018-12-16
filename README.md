@@ -123,6 +123,8 @@ Tracking [military deployments](https://medium.com/dfrlab/breakingsyria-assads-l
 
 Who is [tessa88](https://www.securityweek.com/researchers-reveal-identity-hacker-behind-massive-data-breaches)?
 
+Finding [Twitter Bots](https://www.securityweek.com/researchers-find-thousands-twitter-amplification-bots-just-one-day)
+
 ### Takedowns, hacks and arrests
 Taking down [a dark web marketplace](https://www.wired.com/story/hansa-dutch-police-sting-operation/?CNDID=50740756&mbid=nl_030918_daily_list1_p4)
 
