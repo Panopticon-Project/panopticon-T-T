@@ -158,6 +158,8 @@ Disovering who is behind [attacks on Telegram users](https://blog.talosintellige
 ### Operational Security (OPSEC)
 [Operational security overview](https://www.youtube.com/watch?v=S8GPTvq1m-w)
 
+[The Art of Invisibility](https://www.wired.com/2017/02/famed-hacker-kevin-mitnick-shows-go-invisible-online/?)
+
 ### Encrypted communication
 [Run your end-to-end encrypted chat server using Matrix and Riot](https://blog.cryptoaustralia.org.au/2017/03/21/run-your-end-to-end-encrypted-chat-server-matrix-riot/)
 
