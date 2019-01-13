@@ -26,6 +26,7 @@ This is not a comprehensive list, just a list of resources that might be useful 
 - [Malware Analysis](#malware-analysis)
 - [Surveillance flights and satelites](#surveillance-flights-and-satelites)
 - [Physical security](#physical-security)
+- [Satellite imagery](#satellite-imagery)
 - [Experimental attacks](#experimental-attacks)
 - [Ideas](#ideas)
 
@@ -226,6 +227,9 @@ A [story](https://www.wired.com/story/meet-the-geek-who-tracks-rogue-satellites-
 [Detecting microphones](https://media.ccc.de/v/34c3-8735-spy_vs_spy_a_modern_study_of_microphone_bugs_operation_and_detection)
 
 [Disguises](https://www.wired.com/story/mastermind-cia-disguise/?)
+
+### Satellite imagery
+[Copernicus](https://www.copernicus.eu/en/access-data)
 
 ### Experimental attacks
 [Steal Data From Air-Gapped Industrial Networks via PLCs](http://www.securityweek.com/hackers-can-steal-data-air-gapped-industrial-networks-plcs) - If someone can link to the actual material that would be amazing!
