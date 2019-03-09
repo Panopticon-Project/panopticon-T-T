@@ -19,6 +19,7 @@ This is not a comprehensive list, just a list of resources that might be useful 
 - [Operational Security (OPSEC)](#operational-security-opsec)
 - [Encrypted communication](#encrypted-communication)
 - [Government influence](#government-influence)
+- [Abusing Open Source packages](#abusing-open-source-packages)
 - [Urban science](#urban-science)
 - [Fighting fake news](#fighting-fake-news)
 - [Phishing](#phishing)
@@ -176,6 +177,9 @@ Using [PGP on Tails](https://www.deepdotweb.com/2017/10/22/basic-guide-pgp-tails
 [Hamiltion 68](http://dashboard.securingdemocracy.org/) - Tracking Russian influence operations on Twitter
 
 An [article](https://arstechnica.com/gadgets/2017/08/new-web-tool-tracks-russian-influence-ops-on-twitter/) on Hamilton 68
+
+### Abusing Open Source packages
+An [example](https://arstechnica.com/information-technology/2017/09/devs-unknowingly-use-malicious-modules-put-into-official-python-repository/)
 
 ### Urban science
 An [overview of urban science](https://www.wired.com/story/mit-urban-sciences-program/?CNDID=53659400&mbid=nl_062518_daily_list3_p1)
