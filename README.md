@@ -220,6 +220,8 @@ Anatomy of [a phishing kit](https://medium.com/@0x736A/the-anatomy-of-a-diy-phis
 
 [Ghidra](https://ghidra-sre.org/)
 
+Reversing [example](http://www.vkremez.com/2017/09/lets-learn-reversing-trickbot-banking.html) 
+
 ### Surveillance flights and satelites
 [Sky Spy Watch](https://github.com/nstarpost/SkySpyWatch) - Convert flight path data collected from Virtual Radar Server and filter for potential surveillance activity
 
