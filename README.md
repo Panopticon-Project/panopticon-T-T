@@ -20,6 +20,7 @@ This is not a comprehensive list, just a list of resources that might be useful 
 - [Encrypted communication](#encrypted-communication)
 - [Government influence](#government-influence)
 - [Abusing Open Source packages](#abusing-open-source-packages)
+- [Abusing app stores](#abusing-app-stores)
 - [Urban science](#urban-science)
 - [Fighting fake news](#fighting-fake-news)
 - [Phishing](#phishing)
@@ -180,6 +181,9 @@ An [article](https://arstechnica.com/gadgets/2017/08/new-web-tool-tracks-russian
 
 ### Abusing Open Source packages
 An [example](https://arstechnica.com/information-technology/2017/09/devs-unknowingly-use-malicious-modules-put-into-official-python-repository/)
+
+### Abusing app stores
+An [example](https://www.wired.com/story/google-play-store-malware?mbid=nl_092217_daily&CNDID=%25%25CUST_ID%25%25)
 
 ### Urban science
 An [overview of urban science](https://www.wired.com/story/mit-urban-sciences-program/?CNDID=53659400&mbid=nl_062518_daily_list3_p1)
