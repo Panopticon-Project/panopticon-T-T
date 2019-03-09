@@ -218,6 +218,8 @@ Anatomy of [a phishing kit](https://medium.com/@0x736A/the-anatomy-of-a-diy-phis
 ### Malware Analysis
 [Getting started](https://0ffset.wordpress.com/2018/12/08/getting-started-with-malware-analysis/)
 
+[Ghidra](https://ghidra-sre.org/)
+
 ### Surveillance flights and satelites
 [Sky Spy Watch](https://github.com/nstarpost/SkySpyWatch) - Convert flight path data collected from Virtual Radar Server and filter for potential surveillance activity
 
