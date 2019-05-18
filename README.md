@@ -149,6 +149,8 @@ Arrest of [Vault 7 leaker](https://nakedsecurity.sophos.com/2018/06/20/alleged-v
 
 Disovering who is behind [attacks on Telegram users](https://blog.talosintelligence.com/2018/11/persian-stalker.html)
 
+Dismantling [supply chain attacks](https://www.wired.com/story/goznym-takedown-cybercrime-supply-chain)
+
 ### Understanding your online presence and tracking 
 [Data Selfie](http://dataselfie.it/#/) explores our relationship to the online data we leave behind as a result of media consumption and social networks.
 
