@@ -136,6 +136,8 @@ Finding [Twitter Bots](https://www.securityweek.com/researchers-find-thousands-t
 
 Discover IP addresses for suspicious [Wikipedia edits](https://www.wired.com/2007/08/wiki-tracker/)
 
+How to use [Tweet Deck for investigations](https://www.bellingcat.com/resources/how-tos/2019/06/21/the-most-comprehensive-tweetdeck-research-guide-in-existence-probably/)
+
 ### Takedowns, hacks and arrests
 Taking down [a dark web marketplace](https://www.wired.com/story/hansa-dutch-police-sting-operation/?CNDID=50740756&mbid=nl_030918_daily_list1_p4)
 
